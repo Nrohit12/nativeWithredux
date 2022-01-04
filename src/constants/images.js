@@ -1,0 +1,5 @@
+export const addIcon = require('../assets/addIcon.png')
+export const subtractIcon = require('../assets/subtractIcon.png')
+export const userIcon = require('../assets/userIcon.png')
+export const cartIcon = require('../assets/cartIcon.png')
+export const leftIcon = require('../assets/leftIcon.png')
